@@ -27,7 +27,11 @@ bld/
 .vs/
 
 # MSTest test Results
+<<<<<<< HEAD
 [Tt]est[Rr]esult*/
+=======
+[Tt]est[Rr]esult*/  
+>>>>>>> 6f80c1531116a41035785b3f9be2ca715dcbcc69
 [Bb]uild[Ll]og.*
 
 # NUNIT
